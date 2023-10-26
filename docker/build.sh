@@ -3,7 +3,7 @@
 repo=lukasgd/fcn-nvidia-pytorch
 #tag=latest
 #tag=debug
-tag=23.09-py
+tag=22.04-py
 
 cd ../
 
