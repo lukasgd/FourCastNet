@@ -1,0 +1,4 @@
+image = "/users/lukasd/lukasgd+fcn-nvidia-pytorch+22.04-py3.sqsh"
+mounts = ["/iopsstor/scratch/cscs:/iopsstor/scratch/cscs",
+          "/users/lukasd:/users/lukasd"]
+workdir = "/iopsstor/scratch/cscs/lukasd/FourCastNet"

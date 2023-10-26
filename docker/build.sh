@@ -1,9 +1,9 @@
 #!/bin/bash
 
-repo=gitlab-master.nvidia.com:5005/tkurth/era5_wind
+repo=lukasgd/fcn-nvidia-pytorch
 #tag=latest
 #tag=debug
-tag=jaideep_legacy_dataloader
+tag=23.09-py
 
 cd ../
 
